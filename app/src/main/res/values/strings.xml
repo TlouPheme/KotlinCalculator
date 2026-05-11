@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinCalculator</string>
+    <string name="calculator_error">Error</string>
+</resources>
